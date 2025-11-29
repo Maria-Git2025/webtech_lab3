@@ -52,7 +52,7 @@ nav a.active {
 
 .main-content {
   max-width: 1000px;
-  margin: 140px auto 120px; /* Увеличил нижний отступ с 80px до 120px */
+  margin: 140px auto 120px;
   padding: 0 20px;
 }
 
